@@ -39,7 +39,7 @@ python generate_openapi.py https://example.com [-o output_file.yaml] [-v]
 ## Example
 
 ```bash
-python generate_openapi.py https://sei.macoupincountyil.gov -o sei_api.yaml -v
+python generate_openapi.py https://example.com -o sei_api.yaml -v
 ```
 
 This will:
