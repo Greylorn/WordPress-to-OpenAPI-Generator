@@ -16,12 +16,12 @@ A Python tool that automatically generates OpenAPI specifications by crawling Wo
 ### Prerequisites
 
 - Python 3.6+
-- pip
+- pipx
 
 ### Install dependencies
 
 ```bash
-pip install requests pyyaml
+pipx install requests pyyaml
 ```
 
 ## Usage
